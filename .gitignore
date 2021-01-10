@@ -1,0 +1,4 @@
+.vscode
+/datas/*
+/vendor/*
+/composer.lock
